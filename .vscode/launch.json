@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JavaFXInstallTest",
+      "request": "launch",
+      "mainClass": "JavaFXInstallTest",
+      "projectName": "cmp129-week12-lab01"
+    },
+    {
+      "type": "java",
+      "name": "CalculatorApp",
+      "request": "launch",
+      "mainClass": "CalculatorApp",
+      "projectName": "cmp129-week12-lab01"
+    },
+    {
+      "type": "java",
       "name": "Run JavaFX",
       "request": "launch",
       "mainClass": "${file}",
